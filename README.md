@@ -1,5 +1,5 @@
 ### Hi My Friend 👋
-
+![](https://komarev.com/ghpvc/?username=karishmamalek&color=green)
 <!--
 **karishmamalek/karishmamalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
