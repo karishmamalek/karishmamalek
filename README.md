@@ -5,7 +5,7 @@ I'm a Web Developer
 
 ![](https://komarev.com/ghpvc/?username=karishmamalek&label=Visitors)
 
-<a href="https://www.linkedin.com/in/karishma-malek-46028b15a/">Linkedin<i class="fa fa-linkedin" aria-hidden="true"></i></a>
+<a href="https://www.linkedin.com/in/karishma-malek-46028b15a/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 <!--
 **karishmamalek/karishmamalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
