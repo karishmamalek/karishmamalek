@@ -1,5 +1,12 @@
 ### Hi My Friend 👋
+<h2 align="center">
+I'm a Web Developer
+</h2>
+
 ![](https://komarev.com/ghpvc/?username=karishmamalek&label=Visitors)
+
+<a href="https://www.linkedin.com/in/karishma-malek-46028b15a/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+
 <!--
 **karishmamalek/karishmamalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
